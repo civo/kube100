@@ -15,3 +15,7 @@ We love publishing your content that shows how you approach problems and technol
 * [Building a blog on Civo k3s](https://www.civo.com/learn/building-a-blog-on-civo-k3s) by [Keith Hubner](https://twitter.com/keithhubner)
 * [Deploy a Web Application Using GitOps With GitHub Actions and Python](https://www.civo.com/learn/deploy-a-web-application-using-gitops-with-github-actions-and-python-in-civo) by [Alejandro JNM](https://twitter.com/alejandrojnm)
 * [Get a TLS Certificate For Your Application With JetStack's Cert-Manager](https://www.civo.com/learn/get-a-tls-certificate-for-your-application-with-jetstack-s-cert-manager) by [Alex Ellis](https://twitter.com/alexellisuk)
+* [Using Argo CD in Civo Kubernetes to Deploy Applications](https://www.civo.com/learn/install-argo-cd-in-k3s-civo-cloud-for-deploy-applications) by [Alejandro JNM](https://twitter.com/alejandrojnm)
+* [Deploy a Batch Monitoring Stack With Prometheus PushGateway](https://www.civo.com/learn/deploy-a-batch-monitoring-stack-with-prometheus-pushgateway#introduction) by [Gabriel Duke](https://twitter.com/sudoDuke)
+
+
