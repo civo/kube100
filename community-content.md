@@ -8,6 +8,7 @@ This file aims to be a living record of community-contributed content about Civo
 * [Test Driving Managed Kubernetes Service from Civo](https://sysadmins.co.za/test-driving-managed-kubernetes-service-from-civo/) by [Ruan Bekker](https://twitter.com/ruanbekker)
 * [Managed K3s - Is it a Thing?](https://medium.com/@SaiyamPathak/managed-k3s-is-it-a-thing-9397799c38a) by [Saiyam Pathak](https://twitter.com/Saiyampathak)
 * [Civo Cloud k3s: Enable Traefik Dashboard](https://akos.me/2019/Civo-Cloud-Enable-Traefik-Dashboard/) by [Akos Veres](https://twitter.com/puck)
+* [Flask RESTPlus API on Civo Hosted k3s Kubernetes Cluster](https://www.cellerich.ch/2019/11/30/flask-restplus-api-on-civo-hosted-k3s-kubernetes-cluster/) by [Cello](https://www.cellerich.ch/about/)
 
 ## Contributed Learn Guides
 We love publishing your content that shows how you approach problems and technologies! Any Civo user can contribute a learn guide from their [account dashboard](https://www.civo.com/account/guides). Here is a list of learn guides contributed by our community members:
@@ -17,5 +18,5 @@ We love publishing your content that shows how you approach problems and technol
 * [Get a TLS Certificate For Your Application With JetStack's Cert-Manager](https://www.civo.com/learn/get-a-tls-certificate-for-your-application-with-jetstack-s-cert-manager) by [Alex Ellis](https://twitter.com/alexellisuk)
 * [Using Argo CD in Civo Kubernetes to Deploy Applications](https://www.civo.com/learn/install-argo-cd-in-k3s-civo-cloud-for-deploy-applications) by [Alejandro JNM](https://twitter.com/alejandrojnm)
 * [Deploy a Batch Monitoring Stack With Prometheus PushGateway](https://www.civo.com/learn/deploy-a-batch-monitoring-stack-with-prometheus-pushgateway#introduction) by [Gabriel Duke](https://twitter.com/sudoDuke)
-
+* [Guide to Helm 3 Charts With an Express.js Microservice](https://www.civo.com/learn/guide-to-helm-3-with-an-express-js-microservice) by [Alex Ellis](https://twitter.com/alexellisuk)
 
