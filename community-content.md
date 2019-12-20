@@ -10,6 +10,7 @@ This file aims to be a living record of community-contributed content about Civo
 * [Civo Cloud k3s: Enable Traefik Dashboard](https://akos.me/2019/Civo-Cloud-Enable-Traefik-Dashboard/) by [Akos Veres](https://twitter.com/puck)
 * [Flask RESTPlus API on Civo Hosted k3s Kubernetes Cluster](https://www.cellerich.ch/2019/11/30/flask-restplus-api-on-civo-hosted-k3s-kubernetes-cluster/) by [Cello](https://www.cellerich.ch/about/)
 * [CI/CD with Drone and Gitea using Kubernetes on Civo](https://sysadmins.co.za/ci-cd-with-drone-and-gitea-using-kubernetes-on-civo-post-1/?utm_source=twitter&utm_medium=social&utm_campaign=gitea_drone_twitter) by [Ruan Bekker](https://twitter.com/ruanbekker)
+* [Persistent Storage with OpenEBS on Kubernetes](https://sysadmins.co.za/persistent-storage-with-openebs-on-kubernetes/) by [Ruan Bekker](https://twitter.com/ruanbekker)
 
 ## Contributed Learn Guides
 We love publishing your content that shows how you approach problems and technologies! Any Civo user can contribute a learn guide from their [account dashboard](https://www.civo.com/account/guides). Here is a list of learn guides contributed by our community members:
