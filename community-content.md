@@ -12,6 +12,8 @@ This file aims to be a living record of community-contributed content about Civo
 * [CI/CD with Drone and Gitea using Kubernetes on Civo](https://sysadmins.co.za/ci-cd-with-drone-and-gitea-using-kubernetes-on-civo-post-1/?utm_source=twitter&utm_medium=social&utm_campaign=gitea_drone_twitter) by [Ruan Bekker](https://twitter.com/ruanbekker)
 * [Persistent Storage with OpenEBS on Kubernetes](https://sysadmins.co.za/persistent-storage-with-openebs-on-kubernetes/) by [Ruan Bekker](https://twitter.com/ruanbekker)
 * [Buffalo Site Deployment on Kubernetes to Civo Cloud](https://grhm.dev/posts/buffalo-deployment-to-civo/) by [Dylan Graham](https://twitter.com/plusplusdylan/)
+* [Civo: My Journey](https://blog.heyal.co.uk/civo-my-journey/) by [Alistair Hey](https://twitter.com/alistair_hey)
+* [Rancher 2.3, Istio and Kiali](https://rancher.com/blog/2020/rancher-istio-kiali/) by [Saiyam Pathak](https://twitter.com/Saiyampathak)
 
 ## Contributed Learn Guides
 We love publishing your content that shows how you approach problems and technologies! Any Civo user can contribute a learn guide from their [account dashboard](https://www.civo.com/account/guides). Here is a list of learn guides contributed by our community members:
