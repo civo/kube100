@@ -14,6 +14,7 @@ This file aims to be a living record of community-contributed content about Civo
 * [Buffalo Site Deployment on Kubernetes to Civo Cloud](https://grhm.dev/posts/buffalo-deployment-to-civo/) by [Dylan Graham](https://twitter.com/plusplusdylan/)
 * [Civo: My Journey](https://blog.heyal.co.uk/civo-my-journey/) by [Alistair Hey](https://twitter.com/alistair_hey)
 * [Rancher 2.3, Istio and Kiali](https://rancher.com/blog/2020/rancher-istio-kiali/) by [Saiyam Pathak](https://twitter.com/Saiyampathak)
+* [Civo Kubernetes: A solid managed k3s offering](https://freshbrewed.science/civo-k8s-part-1/index.html) by [Isaac Johnson](https://twitter.com/AHEAD_Isaac)
 
 ## Contributed Learn Guides
 We love publishing your content that shows how you approach problems and technologies! Any Civo user can contribute a learn guide from their [account dashboard](https://www.civo.com/account/guides). Here is a list of learn guides contributed by our community members:
