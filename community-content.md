@@ -26,5 +26,6 @@ We love publishing your content that shows how you approach problems and technol
 * [Using Argo CD in Civo Kubernetes to Deploy Applications](https://www.civo.com/learn/install-argo-cd-in-k3s-civo-cloud-for-deploy-applications) by [Alejandro JNM](https://twitter.com/alejandrojnm)
 * [Deploy a Batch Monitoring Stack With Prometheus PushGateway](https://www.civo.com/learn/deploy-a-batch-monitoring-stack-with-prometheus-pushgateway#introduction) by [Gabriel Duke](https://twitter.com/sudoDuke)
 * [Guide to Helm 3 Charts With an Express.js Microservice](https://www.civo.com/learn/guide-to-helm-3-with-an-express-js-microservice) by [Alex Ellis](https://twitter.com/alexellisuk)
-* [Get a Wildcard Certificate With Cert-Manager and Civo DNS ](https://www.civo.com/learn/get-a-wildcard-certificate-with-cert-manager-and-civo-dns) by [Ramiro Berrelleza](https://twitter.com/rberrelleza)
+* [Get a Wildcard Certificate With Cert-Manager and Civo DNS](https://www.civo.com/learn/get-a-wildcard-certificate-with-cert-manager-and-civo-dns) by [Ramiro Berrelleza](https://twitter.com/rberrelleza)
+* [Connecting to Grafana Deployed to Kubernetes via Prometheus Operator in Marketplace](https://www.civo.com/learn/connecting-to-grafana-deployed-to-kubernetes-via-prometheus-operator-in-marketplace) by [John Gleason](https://twitter.com/johnnygtech)
 
