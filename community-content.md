@@ -29,4 +29,5 @@ We love publishing your content that shows how you approach problems and technol
 * [Get a Wildcard Certificate With Cert-Manager and Civo DNS](https://www.civo.com/learn/get-a-wildcard-certificate-with-cert-manager-and-civo-dns) by [Ramiro Berrelleza](https://twitter.com/rberrelleza)
 * [Moving a Wordpress Blog to Civo Kubernetes](https://www.civo.com/learn/moving-wordpress-to-civo-kubernetes) by [Keith Hubner](https://twitter.com/keithhubner)
 * [Connecting to Grafana Deployed to Kubernetes via Prometheus Operator in Marketplace](https://www.civo.com/learn/connecting-to-grafana-deployed-to-kubernetes-via-prometheus-operator-in-marketplace) by [John Gleason](https://twitter.com/johnnygtech)
-
+* [Using the Civo Terraform Provider](https://www.civo.com/learn/using-the-civo-terraform-provider) by [Alejandro JNM](https://twitter.com/alejandrojnm)
+* [Setting up Polaris on k8s](https://www.civo.com/learn/setting-up-polaris-on-k8s) by [Milind Chawre](https://milindchawre.github.io)
