@@ -17,6 +17,7 @@ This file aims to be a living record of community-contributed content about Civo
 * [Civo Kubernetes: A solid managed k3s offering](https://freshbrewed.science/civo-k8s-part-1/index.html) by [Isaac Johnson](https://twitter.com/AHEAD_Isaac)
 * [Migrating from GKE to Civo's K3s](https://maelvls.dev/from-gke-to-civo-k3s/) by [Maël Valais](https://twitter.com/maelvls)
 * [Civo - Kube three netes?](https://jite.eu/2020/5/5/kube-three-netes/) by [Johannes Tegner](https://twitter.com/_JiTe_)
+* [MicroPaaS with Rio from Rancher on Civo](https://wetry.tech/micropaas-with-rio-from-rancher-en/) by [David Gilson](https://twitter.com/gilsondavid5) - also available [en francais](https://wetry.tech/micropaas-with-rio-from-rancher/)
 
 ## Contributed Learn Guides
 We love publishing your content that shows how you approach problems and technologies! Any Civo user can contribute a learn guide from their [account dashboard](https://www.civo.com/account/guides). Here is a list of learn guides contributed by our community members:
