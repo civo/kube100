@@ -35,3 +35,7 @@ We love publishing your content that shows how you approach problems and technol
 * [Using the Civo Terraform Provider](https://www.civo.com/learn/using-the-civo-terraform-provider) by [Alejandro JNM](https://twitter.com/alejandrojnm)
 * [Setting up Polaris on k8s](https://www.civo.com/learn/setting-up-polaris-on-k8s) by [Milind Chawre](https://milindchawre.github.io)
 * [Deploying Jenkins from the Civo App Marketplace](https://www.civo.com/learn/deploy-jenkins-from-the-civo-app-marketplace) by [Ruan Bekker](https://twitter.com/ruanbekker)
+
+## Videos
+These are videos that feature Civo services in projects and demonstrations by our community.
+* [Let's learn Grafana, Go and Terraform](https://www.youtube.com/watch?v=avxRTZRvJlA) by [Saiyam Pathak](https://twitter.com/Saiyampathak)
