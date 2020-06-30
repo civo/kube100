@@ -18,7 +18,8 @@ This file aims to be a living record of community-contributed content about Civo
 * [Migrating from GKE to Civo's K3s](https://maelvls.dev/from-gke-to-civo-k3s/) by [Maël Valais](https://twitter.com/maelvls)
 * [Civo - Kube three netes?](https://jite.eu/2020/5/5/kube-three-netes/) by [Johannes Tegner](https://twitter.com/_JiTe_)
 * [MicroPaaS with Rio from Rancher on Civo](https://wetry.tech/micropaas-with-rio-from-rancher-en/) by [David Gilson](https://twitter.com/gilsondavid5) - also available [en francais](https://wetry.tech/micropaas-with-rio-from-rancher/)
-* [My Experience with Civo Cloud - The first-ever K3s platform](https://dev.to/sr229/my-experience-with-civo-cloud-the-first-ever-k3s-platform-16nb) by [Ayane Satomi](https://dev.to/sr229)        
+* [My Experience with Civo Cloud - The first-ever K3s platform](https://dev.to/sr229/my-experience-with-civo-cloud-the-first-ever-k3s-platform-16nb) by [Ayane Satomi](https://dev.to/sr229)
+* [Appunti di Civo Cloud: Una comoda CLI per tutte le operazioni](https://www.emmecilab.net/appunti-di-civo-cloud-una-comoda-cli-per-tutte-le-operazioni/) by [Mauro Cicolella](https://twitter.com/emmecilab)
 
 ## Contributed Learn Guides
 We love publishing your content that shows how you approach problems and technologies! Any Civo user can contribute a learn guide from their [account dashboard](https://www.civo.com/account/guides). Here is a list of learn guides contributed by our community members:
@@ -35,6 +36,8 @@ We love publishing your content that shows how you approach problems and technol
 * [Using the Civo Terraform Provider](https://www.civo.com/learn/using-the-civo-terraform-provider) by [Alejandro JNM](https://twitter.com/alejandrojnm)
 * [Setting up Polaris on k8s](https://www.civo.com/learn/setting-up-polaris-on-k8s) by [Milind Chawre](https://milindchawre.github.io)
 * [Deploying Jenkins from the Civo App Marketplace](https://www.civo.com/learn/deploy-jenkins-from-the-civo-app-marketplace) by [Ruan Bekker](https://twitter.com/ruanbekker)
+* [Using Civo's Terraform Provider in GitHub Actions and S3 Compatible Storage](https://www.civo.com/learn/use-the-terraform-provider-of-civo-in-github-actions-and-s3-to-save-the-state) by [Alejandro JNM](https://twitter.com/alejandrojnm)
+* [Develop and test your code directly in Kubernetes using Okteto](https://www.civo.com/learn/okteto-a-tool-to-develop-and-test-your-code-directly-in-kubernetes) by [Milind Chawre](https://twitter.com/milindchawre)
 
 ## Videos
 These are videos that feature Civo services in projects and demonstrations by our community.
