@@ -42,3 +42,4 @@ We love publishing your content that shows how you approach problems and technol
 ## Videos
 These are videos that feature Civo services in projects and demonstrations by our community.
 * [Let's learn Grafana, Go and Terraform](https://www.youtube.com/watch?v=avxRTZRvJlA) by [Saiyam Pathak](https://twitter.com/Saiyampathak)
+* [Civo Community Meetup #1 feat. Saiyam Pathak and Alistair Hey](https://www.youtube.com/watch?v=Ir-tTHWDOn4)
