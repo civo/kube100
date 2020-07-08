@@ -20,6 +20,7 @@ This file aims to be a living record of community-contributed content about Civo
 * [MicroPaaS with Rio from Rancher on Civo](https://wetry.tech/micropaas-with-rio-from-rancher-en/) by [David Gilson](https://twitter.com/gilsondavid5) - also available [en francais](https://wetry.tech/micropaas-with-rio-from-rancher/)
 * [My Experience with Civo Cloud - The first-ever K3s platform](https://dev.to/sr229/my-experience-with-civo-cloud-the-first-ever-k3s-platform-16nb) by [Ayane Satomi](https://dev.to/sr229)
 * [Appunti di Civo Cloud: Una comoda CLI per tutte le operazioni](https://www.emmecilab.net/appunti-di-civo-cloud-una-comoda-cli-per-tutte-le-operazioni/) by [Mauro Cicolella](https://twitter.com/emmecilab)
+* [Deploying Jenkins on "The world's first managed k3s service" on Civo platform](https://www.linkedin.com/pulse/deploying-jenkins-worlds-first-managed-k3s-service-civo-goswami/) by [Lekhika G](https://twitter.com/Lekhika__)
 
 ## Contributed Learn Guides
 We love publishing your content that shows how you approach problems and technologies! Any Civo user can contribute a learn guide from their [account dashboard](https://www.civo.com/account/guides). Here is a list of learn guides contributed by our community members:
