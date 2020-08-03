@@ -44,5 +44,10 @@ We love publishing your content that shows how you approach problems and technol
 ## Videos
 These are videos that feature Civo services in projects and demonstrations by our community.
 * [Let's learn Grafana, Go and Terraform](https://www.youtube.com/watch?v=avxRTZRvJlA) by [Saiyam Pathak](https://twitter.com/Saiyampathak)
-* [Civo Community Meetup #1 feat. Saiyam Pathak and Alistair Hey](https://www.youtube.com/watch?v=Ir-tTHWDOn4)
+* [Building Cloud Native applications using the Civo marketplace and Terraform provider](https://www.youtube.com/watch?v=e5JAo4U7ZD8) by [Saiyam Pathak](https://twitter.com/Saiyampathak)
+* [Accelerating Cloud Native Application Development with Civo k3s](https://www.youtube.com/watch?v=K0BoOaXsiIk) by [Alistair Hey](https://twitter.com/alistair_hey)
+* [Setting Up a Kubernetes-Native Development Environment in the Cloud with Okteto](https://www.youtube.com/watch?v=hkoO29q7_PI) by [Kai Hoffman](https://twitter.com/kaipmdh)
 * [Microservices On Kubernetes - Part 2: Cluster setup](https://www.youtube.com/watch?v=5tndHJXdDkE) by [Piotr Mińkowski](https://twitter.com/piotr_minkowski/)
+* [Monitoring k3s with Prometheus Operator, Alert Manager and Grafana](https://www.youtube.com/watch?v=thHzf0fmrFQ) by [Sam Weston](https://twitter.com/followthesam)
+* [Automatic deploys to Civo Kubernetes through Gitlab CI/CD](https://www.youtube.com/watch?v=2g5CN9guvFc) by [Johannes Tegnér](https://twitter.com/_JiTe_)
+* [Auditing your infrastructure as code setups with Checkov by BridgeCrew](https://www.youtube.com/watch?v=fPVMMrT55pc) by [Kai Hoffman](https://twitter.com/kaipmdh)
