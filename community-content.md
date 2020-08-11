@@ -40,6 +40,7 @@ We love publishing your content that shows how you approach problems and technol
 * [Deploying Jenkins from the Civo App Marketplace](https://www.civo.com/learn/deploy-jenkins-from-the-civo-app-marketplace) by [Ruan Bekker](https://twitter.com/ruanbekker)
 * [Using Civo's Terraform Provider in GitHub Actions and S3 Compatible Storage](https://www.civo.com/learn/use-the-terraform-provider-of-civo-in-github-actions-and-s3-to-save-the-state) by [Alejandro JNM](https://twitter.com/alejandrojnm)
 * [Develop and test your code directly in Kubernetes using Okteto](https://www.civo.com/learn/okteto-a-tool-to-develop-and-test-your-code-directly-in-kubernetes) by [Milind Chawre](https://twitter.com/milindchawre)
+* [Run JMeter Tests in k3s Civo Kube100](https://qainsights.com/run-jmeter-tests-in-k3s-civo-kube100/) by [NaveenKumar Namachivayam](https://twitter.com/qainsights)
 
 ## Videos
 These are videos that feature Civo services in projects and demonstrations by our community.
