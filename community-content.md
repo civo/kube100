@@ -22,6 +22,8 @@ This file aims to be a living record of community-contributed content about Civo
 * [Appunti di Civo Cloud: Una comoda CLI per tutte le operazioni](https://www.emmecilab.net/appunti-di-civo-cloud-una-comoda-cli-per-tutte-le-operazioni/) by [Mauro Cicolella](https://twitter.com/emmecilab)
 * [Deploying Jenkins on "The world's first managed k3s service" on Civo platform](https://www.linkedin.com/pulse/deploying-jenkins-worlds-first-managed-k3s-service-civo-goswami/) by [Lekhika G](https://twitter.com/Lekhika__)
 * [Connect civo k3s Cluster with Azure ARC](https://hashnode.com/post/connect-civo-k3s-cluster-with-azure-arc-ckcmr5ph200avlis1frgl7lkx) by [Saiyam Pathak](https://twitter.com/Saiyampathak)
+* [Run JMeter Tests in k3s Civo Kube100](https://qainsights.com/run-jmeter-tests-in-k3s-civo-kube100/) by [NaveenKumar Namachivayam](https://twitter.com/qainsights)
+
 
 ## Contributed Learn Guides
 We love publishing your content that shows how you approach problems and technologies! Any Civo user can contribute a learn guide from their [account dashboard](https://www.civo.com/account/guides). Here is a list of learn guides contributed by our community members:
@@ -40,7 +42,6 @@ We love publishing your content that shows how you approach problems and technol
 * [Deploying Jenkins from the Civo App Marketplace](https://www.civo.com/learn/deploy-jenkins-from-the-civo-app-marketplace) by [Ruan Bekker](https://twitter.com/ruanbekker)
 * [Using Civo's Terraform Provider in GitHub Actions and S3 Compatible Storage](https://www.civo.com/learn/use-the-terraform-provider-of-civo-in-github-actions-and-s3-to-save-the-state) by [Alejandro JNM](https://twitter.com/alejandrojnm)
 * [Develop and test your code directly in Kubernetes using Okteto](https://www.civo.com/learn/okteto-a-tool-to-develop-and-test-your-code-directly-in-kubernetes) by [Milind Chawre](https://twitter.com/milindchawre)
-* [Run JMeter Tests in k3s Civo Kube100](https://qainsights.com/run-jmeter-tests-in-k3s-civo-kube100/) by [NaveenKumar Namachivayam](https://twitter.com/qainsights)
 
 ## Videos
 These are videos that feature Civo services in projects and demonstrations by our community.
