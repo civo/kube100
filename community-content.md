@@ -23,6 +23,7 @@ This file aims to be a living record of community-contributed content about Civo
 * [Deploying Jenkins on "The world's first managed k3s service" on Civo platform](https://www.linkedin.com/pulse/deploying-jenkins-worlds-first-managed-k3s-service-civo-goswami/) by [Lekhika G](https://twitter.com/Lekhika__)
 * [Connect civo k3s Cluster with Azure ARC](https://hashnode.com/post/connect-civo-k3s-cluster-with-azure-arc-ckcmr5ph200avlis1frgl7lkx) by [Saiyam Pathak](https://twitter.com/Saiyampathak)
 * [Run JMeter Tests in k3s Civo Kube100](https://qainsights.com/run-jmeter-tests-in-k3s-civo-kube100/) by [NaveenKumar Namachivayam](https://twitter.com/qainsights)
+* [Let Us Take a Dig Into Kubevious](https://saiyampathak.com/let-us-take-a-dig-into-kubevious-ckea9d9r700muxhs19jtr3xr8) by [Saiyam Pathak](https://twitter.com/Saiyampathak)
 
 
 ## Contributed Learn Guides
