@@ -44,6 +44,7 @@ We love publishing your content that shows how you approach problems and technol
 * [Using Civo's Terraform Provider in GitHub Actions and S3 Compatible Storage](https://www.civo.com/learn/use-the-terraform-provider-of-civo-in-github-actions-and-s3-to-save-the-state) by [Alejandro JNM](https://twitter.com/alejandrojnm)
 * [Develop and test your code directly in Kubernetes using Okteto](https://www.civo.com/learn/okteto-a-tool-to-develop-and-test-your-code-directly-in-kubernetes) by [Milind Chawre](https://twitter.com/milindchawre)
 * [Manage Kubernetes clusters using the Civo Pulumi provider](https://www.civo.com/learn/kubernetes-clusters-using-the-civo-pulumi-provider) by Zsolt Homorodi
+* [How to install the Civo PowerShell Module](https://www.civo.com/learn/how-to-install-the-civo-powershell-module) by [Roberth Strand](https://twitter.com/Roberthtweets)
 
 ## Videos
 These are videos that feature Civo services in projects and demonstrations by our community.
