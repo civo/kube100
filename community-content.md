@@ -25,6 +25,7 @@ This file aims to be a living record of community-contributed content about Civo
 * [Run JMeter Tests in k3s Civo Kube100](https://qainsights.com/run-jmeter-tests-in-k3s-civo-kube100/) by [NaveenKumar Namachivayam](https://twitter.com/qainsights)
 * [Let Us Take a Dig Into Kubevious](https://saiyampathak.com/let-us-take-a-dig-into-kubevious-ckea9d9r700muxhs19jtr3xr8) by [Saiyam Pathak](https://twitter.com/Saiyampathak)
 * [K3s + Sysdig: Deploying and securing your cluster… in less than 8 minutes!](https://sysdig.com/blog/k3s-sysdig-falco/) by [Dan Papandrea](https://twitter.com/danpopnyc)
+* [Serverless on Kubernetes](https://medium.com/@andrew_18142/serverless-on-kubernetes-93dd40b6bbb6) by Andrew McIver
 
 ## Contributed Learn Guides
 We love publishing your content that shows how you approach problems and technologies! Any Civo user can contribute a learn guide from their [account dashboard](https://www.civo.com/account/guides). Here is a list of learn guides contributed by our community members:
