@@ -26,6 +26,7 @@ This file aims to be a living record of community-contributed content about Civo
 * [Let Us Take a Dig Into Kubevious](https://saiyampathak.com/let-us-take-a-dig-into-kubevious-ckea9d9r700muxhs19jtr3xr8) by [Saiyam Pathak](https://twitter.com/Saiyampathak)
 * [K3s + Sysdig: Deploying and securing your cluster… in less than 8 minutes!](https://sysdig.com/blog/k3s-sysdig-falco/) by [Dan Papandrea](https://twitter.com/danpopnyc)
 * [Serverless on Kubernetes](https://medium.com/@andrew_18142/serverless-on-kubernetes-93dd40b6bbb6) by Andrew McIver
+* [Run Gitlab Pipelines On K3s Powered Civo In Minutes](https://www.techcrumble.net/2020/11/k3s-powered-civo-cloud/) by [Aruna Lakmal](https://twitter.com/techcrumble_net)
 
 ## Contributed Learn Guides
 We love publishing your content that shows how you approach problems and technologies! Any Civo user can contribute a learn guide from their [account dashboard](https://www.civo.com/account/guides). Here is a list of learn guides contributed by our community members:
