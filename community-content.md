@@ -9,7 +9,7 @@ This file aims to be a living record of community-contributed content about Civo
 * [Managed K3s - Is it a Thing?](https://medium.com/@SaiyamPathak/managed-k3s-is-it-a-thing-9397799c38a) by [Saiyam Pathak](https://twitter.com/Saiyampathak)
 * [Civo Cloud k3s: Enable Traefik Dashboard](https://akos.me/2019/Civo-Cloud-Enable-Traefik-Dashboard/) by [Akos Veres](https://twitter.com/puck)
 * [Flask RESTPlus API on Civo Hosted k3s Kubernetes Cluster](https://www.cellerich.ch/2019/11/30/flask-restplus-api-on-civo-hosted-k3s-kubernetes-cluster/) by [Cello](https://www.cellerich.ch/about/)
-* [CI/CD with Drone and Gitea using Kubernetes on Civo](https://sysadmins.co.za/ci-cd-with-drone-and-gitea-using-kubernetes-on-civo-post-1/?utm_source=twitter&utm_medium=social&utm_campaign=gitea_drone_twitter) by [Ruan Bekker](https://twitter.com/ruanbekker)
+* [CI/CD with Drone and Gitea using Kubernetes on Civo](https://sysadmins.co.za/ci-cd-with-drone-and-gitea-using-kubernetes-on-civo-post-1/) by [Ruan Bekker](https://twitter.com/ruanbekker)
 * [Persistent Storage with OpenEBS on Kubernetes](https://sysadmins.co.za/persistent-storage-with-openebs-on-kubernetes/) by [Ruan Bekker](https://twitter.com/ruanbekker)
 * [Buffalo Site Deployment on Kubernetes to Civo Cloud](https://grhm.dev/posts/buffalo-deployment-to-civo/) by [Dylan Graham](https://twitter.com/plusplusdylan/)
 * [Civo: My Journey](https://blog.heyal.co.uk/civo-my-journey/) by [Alistair Hey](https://twitter.com/alistair_hey)
@@ -28,6 +28,7 @@ This file aims to be a living record of community-contributed content about Civo
 * [Serverless on Kubernetes](https://medium.com/@andrew_18142/serverless-on-kubernetes-93dd40b6bbb6) by Andrew McIver
 * [Run Gitlab Pipelines On K3s Powered By Civo In Minutes](https://www.techcrumble.net/2020/11/k3s-powered-civo-cloud/) by [Aruna Lakmal](https://twitter.com/techcrumble_net)
 * [Let's run a VPN with Kubernetes! How to deploy the Mysterium dVPN on K3s](https://dev.to/sr229/let-s-run-a-vpn-with-kubernetes-how-to-deploy-the-mysterium-dvpn-on-k3s-4iph) by [Ayane Satomi](https://dev.to/sr229)
+* [Kubernetes Logging with Grafana's Loki](https://www.r15cookie.com/post/2021-01-02-loki/) by [Steve Miller](https://twitter.com/scubbasteve25)
 
 ## Contributed Learn Guides
 We love publishing your content that shows how you approach problems and technologies! Any Civo user can contribute a learn guide from their [account dashboard](https://www.civo.com/account/guides). Here is a list of learn guides contributed by our community members:
