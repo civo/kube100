@@ -29,6 +29,7 @@ This file aims to be a living record of community-contributed content about Civo
 * [Run Gitlab Pipelines On K3s Powered By Civo In Minutes](https://www.techcrumble.net/2020/11/k3s-powered-civo-cloud/) by [Aruna Lakmal](https://twitter.com/techcrumble_net)
 * [Let's run a VPN with Kubernetes! How to deploy the Mysterium dVPN on K3s](https://dev.to/sr229/let-s-run-a-vpn-with-kubernetes-how-to-deploy-the-mysterium-dvpn-on-k3s-4iph) by [Ayane Satomi](https://dev.to/sr229)
 * [Kubernetes Logging with Grafana's Loki](https://www.r15cookie.com/post/2021-01-02-loki/) by [Steve Miller](https://twitter.com/scubbasteve25)
+* [Civo Cloud k3s: Traefik v2 and Let's Encrypt](https://akos.me/2019/civo-cloud-treafik-v2-tls/) by [Akos Veres](https://twitter.com/puck)
 
 ## Contributed Learn Guides
 We love publishing your content that shows how you approach problems and technologies! Any Civo user can contribute a learn guide from their [account dashboard](https://www.civo.com/account/guides). Here is a list of learn guides contributed by our community members:
