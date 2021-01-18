@@ -55,7 +55,7 @@ We love publishing your content that shows how you approach problems and technol
 * [Deploying Twingate To Civo k3s](https://www.civo.com/learn/deploying-twingate-to-civo-k3s) by [Keith Hubner](https://twitter.com/keithhubner)
 * [Full Stack Deployment in Civo Kubernetes with Angular, IdentityServer4, .NET Core, and MongoDB](https://www.civo.com/learn/angular-dotnet-development-kubernetes) by [Rajesh Radhakrishnan](https://twitter.com/RRaajjesshh)
 * [Connecting Gitlab and Kubernetes for continuous deployment on Civo](https://www.civo.com/learn/gitlab-kubernetes-win) by by Andrew McIver
-* [Securing a K3s cluster with Falco] by [Rajakavitha Kodhandapani](https://twitter.com/Rajie_)
+* [Securing a K3s cluster with Falco](https://www.civo.com/learn/securing-a-k3s-cluster-falco) by [Rajakavitha Kodhandapani](https://twitter.com/Rajie_)
 * [Tips to ace the CKA and CKAD exams](https://www.civo.com/learn/tips-to-ace-cka-and-ckad-exams) by [Milind Chawre](https://twitter.com/milindchawre)
 
 ## Videos
