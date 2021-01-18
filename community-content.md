@@ -50,6 +50,13 @@ We love publishing your content that shows how you approach problems and technol
 * [Develop and test your code directly in Kubernetes using Okteto](https://www.civo.com/learn/okteto-a-tool-to-develop-and-test-your-code-directly-in-kubernetes) by [Milind Chawre](https://twitter.com/milindchawre)
 * [Manage Kubernetes clusters using the Civo Pulumi provider](https://www.civo.com/learn/kubernetes-clusters-using-the-civo-pulumi-provider) by Zsolt Homorodi
 * [How to install the Civo PowerShell Module](https://www.civo.com/learn/how-to-install-the-civo-powershell-module) by [Roberth Strand](https://twitter.com/Roberthtweets)
+* [Backup Longhorn Volumes to a Minio S3 bucket](https://www.civo.com/learn/backup-longhorn-volumes-to-a-minio-s3-bucket) by [Keith Hubner](https://twitter.com/keithhubner)
+* [Sloop : a tool to visualize the history of Kubernetes resources](https://www.civo.com/learn/sloop-a-tool-to-visualize-history-of-kubernetes-resources) by [Milind Chawre](https://twitter.com/milindchawre)
+* [Deploying Twingate To Civo k3s](https://www.civo.com/learn/deploying-twingate-to-civo-k3s) by [Keith Hubner](https://twitter.com/keithhubner)
+* [Full Stack Deployment in Civo Kubernetes with Angular, IdentityServer4, .NET Core, and MongoDB] by [Rajesh Radhakrishnan](https://twitter.com/RRaajjesshh)
+* [Connecting Gitlab and Kubernetes for continuous deployment on Civo] by by Andrew McIver
+* [Securing a K3s cluster with Falco] by [Rajakavitha Kodhandapani](https://twitter.com/Rajie_)
+* [Tips to ace the CKA and CKAD exams](https://www.civo.com/learn/tips-to-ace-cka-and-ckad-exams) by [Milind Chawre](https://twitter.com/milindchawre)
 
 ## Videos
 These are videos that feature Civo services in projects and demonstrations by our community.
