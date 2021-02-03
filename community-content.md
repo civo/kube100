@@ -57,6 +57,7 @@ We love publishing your content that shows how you approach problems and technol
 * [Connecting Gitlab and Kubernetes for continuous deployment on Civo](https://www.civo.com/learn/gitlab-kubernetes-win) by by Andrew McIver
 * [Securing a K3s cluster with Falco](https://www.civo.com/learn/securing-a-k3s-cluster-falco) by [Rajakavitha Kodhandapani](https://twitter.com/Rajie_)
 * [Tips to ace the CKA and CKAD exams](https://www.civo.com/learn/tips-to-ace-cka-and-ckad-exams) by [Milind Chawre](https://twitter.com/milindchawre)
+* [Managing Kubernetes insights and logs with Datadog](https://www.civo.com/learn/managing-kubernetes-insights-logs-with-datadog) by [Amit Chaudhary](https://twitter.com/DoNnMyTh)
 
 ## Videos
 These are videos that feature Civo services in projects and demonstrations by our community.
