@@ -59,6 +59,9 @@ We love publishing your content that shows how you approach problems and technol
 * [Securing a K3s cluster with Falco](https://www.civo.com/learn/securing-a-k3s-cluster-falco) by [Rajakavitha Kodhandapani](https://twitter.com/Rajie_)
 * [Tips to ace the CKA and CKAD exams](https://www.civo.com/learn/tips-to-ace-cka-and-ckad-exams) by [Milind Chawre](https://twitter.com/milindchawre)
 * [Managing Kubernetes insights and logs with Datadog](https://www.civo.com/learn/managing-kubernetes-insights-logs-with-datadog) by [Amit Chaudhary](https://twitter.com/DoNnMyTh)
+* [GitOps on Civo using Gimlet CLI, part one](https://www.civo.com/learn/gitops-on-civo-gimlet-part-one) by [Laszlo Fogas](twitter.com/laszlocph)
+* [GitOps on Civo using Gimlet CLI, part two](https://www.civo.com/learn/gitops-on-civo-using-gimlet-cli-part-two) by [Laszlo Fogas](twitter.com/laszlocph)
+* [TTL.sh - Your anonymous and ephemeral Docker image registry](https://www.civo.com/learn/ttl-sh-your-anonymous-and-ephemeral-docker-image-registry) by [Milind Chawre](https://twitter.com/milindchawre)
 
 ## Videos
 These are videos that feature Civo services in projects and demonstrations by our community.
