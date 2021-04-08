@@ -62,6 +62,7 @@ We love publishing your content that shows how you approach problems and technol
 * [GitOps on Civo using Gimlet CLI, part one](https://www.civo.com/learn/gitops-on-civo-gimlet-part-one) by [Laszlo Fogas](twitter.com/laszlocph)
 * [GitOps on Civo using Gimlet CLI, part two](https://www.civo.com/learn/gitops-on-civo-using-gimlet-cli-part-two) by [Laszlo Fogas](twitter.com/laszlocph)
 * [TTL.sh - Your anonymous and ephemeral Docker image registry](https://www.civo.com/learn/ttl-sh-your-anonymous-and-ephemeral-docker-image-registry) by [Milind Chawre](https://twitter.com/milindchawre)
+* [Discover Civo Cloud: a managed Kubernetes based on K3s ](https://dev.to/stack-labs/discover-civo-cloud-a-managed-kubernetes-based-on-k3s-1mj) by [Aurelie Vache](https://twitter.com/aurelievache)
 
 ## Videos
 These are videos that feature Civo services in projects and demonstrations by our community.
