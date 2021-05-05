@@ -31,6 +31,7 @@ This file aims to be a living record of community-contributed content about Civo
 * [Kubernetes Logging with Grafana's Loki](https://www.r15cookie.com/post/2021-01-02-loki/) by [Steve Miller](https://twitter.com/scubbasteve25)
 * [Civo Cloud k3s: Traefik v2 and Let's Encrypt](https://akos.me/2019/civo-cloud-treafik-v2-tls/) by [Akos Veres](https://twitter.com/puck)
 * [Tu cluster de Kubernetes en la nube en minutos con CIVO](https://cduser.com/tu-cluster-de-kubernetes-en-minutos-en-la-nube-con-civo/) by [Ignacio Van Droogenbroeck](https://twitter.com/hectorivand)
+* [Discover Civo Cloud: a managed Kubernetes based on K3s ](https://dev.to/stack-labs/discover-civo-cloud-a-managed-kubernetes-based-on-k3s-1mj) by [Aurelie Vache](https://twitter.com/aurelievache)
 * [Does Linkerd mesh with GitOps? Flux around and find out](https://buoyant.io/2021/04/08/does-linkerd-mesh-with-gitops/) by [Jason Morgan](https://twitter.com/RJasonMorgan)
 * [Easily create a K3S cluster on Civo with GitLab CI](https://gitlab.com/k33g_org/k33g_org.gitlab.io/-/issues/73) by [Philippe Charrière](https://twitter.com/k33g_org)
 
@@ -64,7 +65,6 @@ We love publishing your content that shows how you approach problems and technol
 * [GitOps on Civo using Gimlet CLI, part one](https://www.civo.com/learn/gitops-on-civo-gimlet-part-one) by [Laszlo Fogas](twitter.com/laszlocph)
 * [GitOps on Civo using Gimlet CLI, part two](https://www.civo.com/learn/gitops-on-civo-using-gimlet-cli-part-two) by [Laszlo Fogas](twitter.com/laszlocph)
 * [TTL.sh - Your anonymous and ephemeral Docker image registry](https://www.civo.com/learn/ttl-sh-your-anonymous-and-ephemeral-docker-image-registry) by [Milind Chawre](https://twitter.com/milindchawre)
-* [Discover Civo Cloud: a managed Kubernetes based on K3s ](https://dev.to/stack-labs/discover-civo-cloud-a-managed-kubernetes-based-on-k3s-1mj) by [Aurelie Vache](https://twitter.com/aurelievache)
 
 ## Videos
 These are videos that feature Civo services in projects and demonstrations by our community.
