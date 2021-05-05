@@ -32,6 +32,7 @@ This file aims to be a living record of community-contributed content about Civo
 * [Civo Cloud k3s: Traefik v2 and Let's Encrypt](https://akos.me/2019/civo-cloud-treafik-v2-tls/) by [Akos Veres](https://twitter.com/puck)
 * [Tu cluster de Kubernetes en la nube en minutos con CIVO](https://cduser.com/tu-cluster-de-kubernetes-en-minutos-en-la-nube-con-civo/) by [Ignacio Van Droogenbroeck](https://twitter.com/hectorivand)
 * [Does Linkerd mesh with GitOps? Flux around and find out](https://buoyant.io/2021/04/08/does-linkerd-mesh-with-gitops/) by [Jason Morgan](https://twitter.com/RJasonMorgan)
+* [Easily create a K3S cluster on Civo with GitLab CI](https://gitlab.com/k33g_org/k33g_org.gitlab.io/-/issues/73) by [Philippe Charrière](https://twitter.com/k33g_org)
 
 ## Contributed Learn Guides
 We love publishing your content that shows how you approach problems and technologies! Any Civo user can contribute a learn guide from their [account dashboard](https://www.civo.com/account/guides). Here is a list of learn guides contributed by our community members:
