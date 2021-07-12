@@ -77,3 +77,4 @@ These are videos that feature Civo services in projects and demonstrations by ou
 * [Monitoring k3s with Prometheus Operator, Alert Manager and Grafana](https://www.youtube.com/watch?v=thHzf0fmrFQ) by [Sam Weston](https://twitter.com/followthesam)
 * [Automatic deploys to Civo Kubernetes through Gitlab CI/CD](https://www.youtube.com/watch?v=2g5CN9guvFc) by [Johannes Tegnér](https://twitter.com/_JiTe_)
 * [Auditing your infrastructure as code setups with Checkov by BridgeCrew](https://www.youtube.com/watch?v=fPVMMrT55pc) by [Kai Hoffman](https://twitter.com/kaipmdh)
+* [Managed Kubernetes K3s Service By Civo](https://www.youtube.com/watch?v=SwOIlzXLIw4) by [Victor Farcic](https://twitter.com/vfarcic)
