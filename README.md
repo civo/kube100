@@ -1,6 +1,6 @@
 # #KUBE100
 
-**#NOTE: This repo is no longer being maintained or monitored. If you are facing any issues, you could either create an issue on the [respective repos (if any)](https://github.com/orgs/civo/repositories) or directly reach to us via civo.com**
+**#NOTE: This repo is no longer being maintained or monitored. If you are facing any issues, you could either create an issue on the other [respective repos (if any)](https://github.com/orgs/civo/repositories) or directly reach to us via civo.com**
 
 Issues (bug reports, feature requests, etc) for our #KUBE100 beta - the world's first managed k3s service
 
